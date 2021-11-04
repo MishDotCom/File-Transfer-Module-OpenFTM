@@ -1,0 +1,16 @@
+C:\Users\simio\Desktop\OpenFTM\ftm\bin\Debug\net5.0\ftm.exe
+C:\Users\simio\Desktop\OpenFTM\ftm\bin\Debug\net5.0\ftm.deps.json
+C:\Users\simio\Desktop\OpenFTM\ftm\bin\Debug\net5.0\ftm.runtimeconfig.json
+C:\Users\simio\Desktop\OpenFTM\ftm\bin\Debug\net5.0\ftm.runtimeconfig.dev.json
+C:\Users\simio\Desktop\OpenFTM\ftm\bin\Debug\net5.0\ftm.dll
+C:\Users\simio\Desktop\OpenFTM\ftm\bin\Debug\net5.0\ref\ftm.dll
+C:\Users\simio\Desktop\OpenFTM\ftm\bin\Debug\net5.0\ftm.pdb
+C:\Users\simio\Desktop\OpenFTM\ftm\obj\Debug\net5.0\ftm.csproj.AssemblyReference.cache
+C:\Users\simio\Desktop\OpenFTM\ftm\obj\Debug\net5.0\ftm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simio\Desktop\OpenFTM\ftm\obj\Debug\net5.0\ftm.AssemblyInfoInputs.cache
+C:\Users\simio\Desktop\OpenFTM\ftm\obj\Debug\net5.0\ftm.AssemblyInfo.cs
+C:\Users\simio\Desktop\OpenFTM\ftm\obj\Debug\net5.0\ftm.csproj.CoreCompileInputs.cache
+C:\Users\simio\Desktop\OpenFTM\ftm\obj\Debug\net5.0\ftm.dll
+C:\Users\simio\Desktop\OpenFTM\ftm\obj\Debug\net5.0\ref\ftm.dll
+C:\Users\simio\Desktop\OpenFTM\ftm\obj\Debug\net5.0\ftm.pdb
+C:\Users\simio\Desktop\OpenFTM\ftm\obj\Debug\net5.0\ftm.genruntimeconfig.cache

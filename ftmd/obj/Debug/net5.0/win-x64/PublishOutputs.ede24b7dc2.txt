@@ -1,0 +1,2 @@
+C:\Users\simio\Desktop\OpenFTM\ftmd\bin\Debug\net5.0\win-x64\publish\ftmd.pdb
+C:\Users\simio\Desktop\OpenFTM\ftmd\bin\Debug\net5.0\win-x64\publish\ftmd.exe

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "goZtZIwjibMY9sdmPZDlsoTwukPQV/iPKCnYPU/UWm3gyrxxSvNYwr1aEn5ttM4LrmTd2Jt8RK6OYNgK2QIsag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simio\\Desktop\\OpenFTM\\ftmd\\ftmd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simio\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.7\\microsoft.netcore.app.runtime.linux-x64.5.0.7.nupkg.sha512",
+    "C:\\Users\\simio\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.7\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.7.nupkg.sha512",
+    "C:\\Users\\simio\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.7\\microsoft.netcore.app.host.linux-x64.5.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
